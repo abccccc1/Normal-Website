@@ -1,0 +1,6 @@
+name = "punchmadezombie" 
+type = "pages"
+
+[build]
+command = ""  # Leave empty for static files
+directory = "./C:/Users/RTX 3060/Documents/website" 
